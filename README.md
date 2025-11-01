@@ -1,5 +1,5 @@
 # Automation pipeline: Turn on the Ec2 instances
-This repository features an Azure Pipeline designed to automate the process of starting and managing an EC2 instance in AWS. It includes commands to launch a new EC2 instance, monitor its status, and manage its lifecycle efficiently. This setup helps streamline infrastructure management, reduce manual effort, and ensure that instances are started and checked reliably within your deployment workflows.
+This repository features an Azure Pipeline designed to automate the process of starting and managing an EC2 instance in AWS. It includes commands to launch an Ec2 instance, monitor its status, and manage its lifecycle efficiently. This setup helps streamline infrastructure management, reduce manual effort, and ensure that instances are started and checked reliably within your deployment workflows.
 
 ### 🛠️For the use the schema
 * Azure devOps account
@@ -13,7 +13,6 @@ AWS_EC2_REGION
 ```
 * Aws account
 * * EC2
-* * RDS
 
 ### ⚡Triggers in Azure Devops
 We can configure pipelines to run on the days we need:
@@ -25,5 +24,6 @@ We can configure pipelines to run on the days we need:
 <div align="center">
   <img height="300" width="90%" src="triggers.png"  />
 </div>
+
 
 
