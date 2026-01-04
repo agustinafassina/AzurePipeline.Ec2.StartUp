@@ -23,8 +23,9 @@ We can configure pipelines to run on the days we need:
 - Scheduled detail:
 
 <div align="center">
-  <img height="300" width="90%" src="triggers.png"  />
+  <img height="300" width="95%" src="triggers.png"  />
 </div>
+
 
 
 
