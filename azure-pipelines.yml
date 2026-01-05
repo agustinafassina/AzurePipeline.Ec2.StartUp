@@ -1,10 +1,10 @@
 name: af_$(SourceBranchName)_$(Build.SourceVersion)
 
 pool:
-  vmImage: 'ubuntu-22.04'
+  vmImage: 'ubuntu-24.04'
 
 variables:
-  - group: dev
+  - group: devops-variables
 
 steps:
 - script: |
