@@ -1,4 +1,4 @@
-# Automation pipeline: Turn on the Ec2 instances
+# Automation pipeline: Turn on the Ec2 instances ⚙️
 This repository features an Azure Pipeline designed to automate the process of starting and managing an EC2 instance in AWS. It includes commands to launch an Ec2 instance, monitor its status, and manage its lifecycle efficiently. This setup helps streamline infrastructure management, reduce manual effort, and ensure that instances are started and checked reliably within your deployment workflows.
 
 ### 🛠️For the use the schema
